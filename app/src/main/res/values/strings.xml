@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarme</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="hint_segundos">Segundos...</string>
+</resources>
